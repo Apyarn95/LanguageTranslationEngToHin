@@ -8,7 +8,8 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
 * Runtime ~ 2.5 hrs on tesla k80 gpu (80k training examples)
 ## Model Architecture
 ### GRU Units
-   * Gated GRU units are used because they are much faster than LSTM's and perform almost the same fr considerably small to large size input sentences
+   * Gated GRU units are used because they are much faster than LSTM's and perform almost the same fr considerably small to large size input sentences.
+   * To get a deeper understanding refer to https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
    #### Architecture of GRU is as follows
 ![GitHub Logo](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png)
 

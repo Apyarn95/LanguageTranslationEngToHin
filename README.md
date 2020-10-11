@@ -7,6 +7,6 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
 * RAM usage >= 6 GB
 * Runtime ~ 2.5 hrs on tesla k80 gpu (80k training examples)
 ## Model Architecture
-![GitHub Logo](https://miro.medium.com/max/875/1*n-IgHZM5baBUjq0T7RYDBw.gif)
+![GitHub Logo](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png)
 
 

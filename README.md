@@ -5,5 +5,8 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
 ## Requirements
 * Tensorflow -v >= 2.0.0
 * RAM usage >= 6 GB
-* Runtime ~ 2.5 hrs on tesla k80 gpu
+* Runtime ~ 2.5 hrs on tesla k80 gpu (80k training examples)
+## Model Architecture
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 

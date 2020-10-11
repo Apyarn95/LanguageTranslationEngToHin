@@ -12,5 +12,11 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
    * To get a deeper understanding refer to https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
    #### Architecture of GRU is as follows
 ![GitHub Logo](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-var-GRU.png)
+### Encoder-Decoder Architecture
+   * Encoder consists of a searies reccurent cell like traditionla RNN , GRU or LSTM . The endoder encoder the given sentence into a fixed size context vector .
+   * The decoder then using the context vector decodes the sentences into target sentence using methods of conditional propabilities to minimize the loss.
+   * Check out https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346 for deeper insights
+   
+   ![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fneural-networks-and%2F9781492037354%2Fch04.html&psig=AOvVaw3ux3DTABT_JIlgSMCKDXQP&ust=1602488300944000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDo06eErOwCFQAAAAAdAAAAABAD)
 
 

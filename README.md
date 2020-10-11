@@ -17,6 +17,6 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
    * The decoder then using the context vector decodes the sentences into target sentence using methods of conditional propabilities to minimize the loss.
    * Check out https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346 for deeper insights
    
-   ![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fneural-networks-and%2F9781492037354%2Fch04.html&psig=AOvVaw3ux3DTABT_JIlgSMCKDXQP&ust=1602488300944000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDo06eErOwCFQAAAAAdAAAAABAD)
+   ![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTotYB3Gfaw5K29c6YqhXM__DEH60BML8bSyA&usqp=CAU)
 
 

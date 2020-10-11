@@ -20,7 +20,10 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
    ![GitHub Logo](https://blog.dataiku.com/hubfs/encoder%20decoder%20NLP%20architecture.png)
  
  ### Attention Mechanisms
-    * While decoding certain parts of the sentences it makes more sense to look at only certain areas of the input senteces . 
+   * While decoding certain parts of the sentences it makes more sense to look at only certain areas of the input senteces.
+   ![GitHub Logo](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Depiction-of-Global-Attention-in-an-Encoder-Decoder-Recurrent-Neural-Network.png)
+   * We would use Bahdanu's attention layer in this notebook . refer https://arxiv.org/pdf/1409.0473.pdf for details of the layer.
+     ![GitHub Logo] (https://i.stack.imgur.com/yqJpG.png)
      
 
 

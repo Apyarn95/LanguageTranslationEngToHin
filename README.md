@@ -20,7 +20,7 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
    ![GitHub Logo](https://blog.dataiku.com/hubfs/encoder%20decoder%20NLP%20architecture.png)
  
  ### Attention Mechanisms
-    * While decoding certain parts of the sentences it makes more sense to look at only certain areas of the input senteces . Like while determining the starting of the sentence    it's most likely to be related to starting of the input sentence in tasks like language transaltion.
+    * While decoding certain parts of the sentences it makes more sense to look at only certain areas of the input senteces . 
      
 
 

@@ -26,6 +26,15 @@ visit https://www.clarin.eu/resource-families/parallel-corpora and download the 
    
    
    ![GitHub Logo](https://image.slidesharecdn.com/attentionmechanism-180209134411/95/attention-mechanismseq2seq-7-638.jpg?cb=1518184094)
+   
+ 
+ ## Training Methods
+   * The convergence rate to the minimum can be increased by using techniques like teacher forcing , local attention mechanisms etc.
+   * Techer forcing is a method in which we preemtively feed the correct output at intial steps of decoder during training so that current incorrect predictions do not effect the further predictions much . This helps us to reach minima more likely and fastely.
+   * reference : https://machinelearningmastery.com/teacher-forcing-for-recurrent-neural-networks/
+   
+   
+   
      
 
 
